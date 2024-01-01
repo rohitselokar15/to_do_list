@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rohitselokar15/to_do_list/static/css/main.0b25b37d.css",
+    "main.js": "/rohitselokar15/to_do_list/static/js/main.73274694.js",
+    "index.html": "/rohitselokar15/to_do_list/index.html",
+    "main.0b25b37d.css.map": "/rohitselokar15/to_do_list/static/css/main.0b25b37d.css.map",
+    "main.73274694.js.map": "/rohitselokar15/to_do_list/static/js/main.73274694.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b25b37d.css",
+    "static/js/main.73274694.js"
+  ]
+}
